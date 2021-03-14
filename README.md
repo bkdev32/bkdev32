@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 Currently working as a Customer Success Manager within a SaaS startup
+- 🔭 Working as a Customer Success Manager within a SaaS startup
+- 📱 Currently building my portfolio of iOS apps built in UIKit & SwiftUI
 - 🌱 Learning SwiftUI
 - 💬 Ask me about all things Swift
 - 😄 Pronouns: he/him
