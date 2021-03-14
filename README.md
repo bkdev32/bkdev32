@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on 100 Days of SwiftUI 
 - 🌱 Learning SwiftUI
 - 💬 Ask me about all things Swift
-- - 😄 Pronouns: he/him
+- 😄 Pronouns: he/him
 
 <!-- - 🤔 I’m looking for help with ... 
 - ⚡ Fun fact: -->
