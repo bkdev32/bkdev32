@@ -5,7 +5,7 @@
 - 🌱 Learning SwiftUI
 - 💬 Ask me about all things Swift
 - 😄 Pronouns: he/him
-- 📫 How to reach me: kaynakburhan@gmail.com
+- 📫 How to reach me: burhan@kaynak.uk
 
 
 <!-- - 🤔 I’m looking for help with ... 
