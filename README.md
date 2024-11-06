@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 Working as a Customer Operations Manager within a SaaS company
+- 🔭 Working at a SaaS company
 - 📱 Currently working on building iOS apps
 - 🌱 Learning SwiftUI
 - 💬 Ask me about all things Swift
